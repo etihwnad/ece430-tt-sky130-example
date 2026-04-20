@@ -9,11 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project is simply an example for showing ~~all~~ some of the mistakes one can make.
 
 ## How to test
 
-Explain how to use your project
+`make TEST`
+
+
 
 ## External hardware
 
